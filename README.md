@@ -1,4 +1,4 @@
-# 🛒 Grocery Inventory Data Analysis
+# 🛒 Grocery Inventory Data Analysis | Python Project
 
 ## 📌 Overview
 This project analyzes grocery inventory and sales data to identify:
